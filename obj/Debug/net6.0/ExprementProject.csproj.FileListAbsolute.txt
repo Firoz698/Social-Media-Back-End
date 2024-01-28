@@ -1,0 +1,227 @@
+G:\New E Commarse\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\appsettings.Development.json
+G:\New E Commarse\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\appsettings.json
+G:\New E Commarse\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\ExprementProject.exe
+G:\New E Commarse\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\ExprementProject.deps.json
+G:\New E Commarse\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\ExprementProject.runtimeconfig.json
+G:\New E Commarse\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\ExprementProject.dll
+G:\New E Commarse\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\ExprementProject.pdb
+G:\New E Commarse\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+G:\New E Commarse\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\New E Commarse\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\New E Commarse\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\New E Commarse\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\ExprementProject.csproj.AssemblyReference.cache
+G:\New E Commarse\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\ExprementProject.GeneratedMSBuildEditorConfig.editorconfig
+G:\New E Commarse\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\ExprementProject.AssemblyInfoInputs.cache
+G:\New E Commarse\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\ExprementProject.AssemblyInfo.cs
+G:\New E Commarse\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\ExprementProject.csproj.CoreCompileInputs.cache
+G:\New E Commarse\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\ExprementProject.MvcApplicationPartsAssemblyInfo.cs
+G:\New E Commarse\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\ExprementProject.MvcApplicationPartsAssemblyInfo.cache
+G:\New E Commarse\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\staticwebassets\msbuild.ExprementProject.Microsoft.AspNetCore.StaticWebAssets.props
+G:\New E Commarse\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\staticwebassets\msbuild.build.ExprementProject.props
+G:\New E Commarse\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ExprementProject.props
+G:\New E Commarse\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ExprementProject.props
+G:\New E Commarse\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\staticwebassets.pack.json
+G:\New E Commarse\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\staticwebassets.build.json
+G:\New E Commarse\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\staticwebassets.development.json
+G:\New E Commarse\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\scopedcss\bundle\ExprementProject.styles.css
+G:\New E Commarse\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\ExprementProject.csproj.CopyComplete
+G:\New E Commarse\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\ExprementProject.dll
+G:\New E Commarse\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\refint\ExprementProject.dll
+G:\New E Commarse\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\ExprementProject.pdb
+G:\New E Commarse\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\ExprementProject.genruntimeconfig.cache
+G:\New E Commarse\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\ref\ExprementProject.dll
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\appsettings.Development.json
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\appsettings.json
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\ExprementProject.exe
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\ExprementProject.deps.json
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\ExprementProject.runtimeconfig.json
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\ExprementProject.dll
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\ExprementProject.pdb
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\Humanizer.dll
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\ExprementProject.csproj.AssemblyReference.cache
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\ExprementProject.GeneratedMSBuildEditorConfig.editorconfig
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\ExprementProject.AssemblyInfoInputs.cache
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\ExprementProject.AssemblyInfo.cs
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\ExprementProject.csproj.CoreCompileInputs.cache
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\ExprementProject.MvcApplicationPartsAssemblyInfo.cs
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\ExprementProject.MvcApplicationPartsAssemblyInfo.cache
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\staticwebassets\msbuild.ExprementProject.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\staticwebassets\msbuild.build.ExprementProject.props
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ExprementProject.props
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ExprementProject.props
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\staticwebassets.pack.json
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\staticwebassets.build.json
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\staticwebassets.development.json
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\scopedcss\bundle\ExprementProject.styles.css
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\ExprementProject.csproj.CopyComplete
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\ExprementProject.dll
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\refint\ExprementProject.dll
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\ExprementProject.pdb
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\ExprementProject.genruntimeconfig.cache
+G:\Practice Area\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\ref\ExprementProject.dll
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\appsettings.Development.json
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\appsettings.json
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\ExprementProject.exe
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\ExprementProject.deps.json
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\ExprementProject.runtimeconfig.json
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\ExprementProject.dll
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\ExprementProject.pdb
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\Humanizer.dll
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\ExprementProject.csproj.AssemblyReference.cache
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\ExprementProject.GeneratedMSBuildEditorConfig.editorconfig
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\ExprementProject.AssemblyInfoInputs.cache
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\ExprementProject.AssemblyInfo.cs
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\ExprementProject.csproj.CoreCompileInputs.cache
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\ExprementProject.MvcApplicationPartsAssemblyInfo.cs
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\ExprementProject.MvcApplicationPartsAssemblyInfo.cache
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\staticwebassets.build.json
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\staticwebassets.development.json
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\staticwebassets\msbuild.ExprementProject.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\staticwebassets\msbuild.build.ExprementProject.props
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ExprementProject.props
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ExprementProject.props
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\staticwebassets.pack.json
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\scopedcss\bundle\ExprementProject.styles.css
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\ExprementProject.csproj.CopyComplete
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\ExprementProject.dll
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\refint\ExprementProject.dll
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\ExprementProject.pdb
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\ExprementProject.genruntimeconfig.cache
+G:\Practice Work Area\Angular\Practice Area\ExprementSolution\ExprementProject\obj\Debug\net6.0\ref\ExprementProject.dll
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\bin\Debug\net6.0\appsettings.Development.json
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\bin\Debug\net6.0\appsettings.json
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\bin\Debug\net6.0\ExprementProject.exe
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\bin\Debug\net6.0\ExprementProject.deps.json
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\bin\Debug\net6.0\ExprementProject.runtimeconfig.json
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\bin\Debug\net6.0\ExprementProject.dll
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\bin\Debug\net6.0\ExprementProject.pdb
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\bin\Debug\net6.0\Humanizer.dll
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\obj\Debug\net6.0\ExprementProject.csproj.AssemblyReference.cache
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\obj\Debug\net6.0\ExprementProject.GeneratedMSBuildEditorConfig.editorconfig
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\obj\Debug\net6.0\ExprementProject.AssemblyInfoInputs.cache
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\obj\Debug\net6.0\ExprementProject.AssemblyInfo.cs
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\obj\Debug\net6.0\ExprementProject.csproj.CoreCompileInputs.cache
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\obj\Debug\net6.0\ExprementProject.MvcApplicationPartsAssemblyInfo.cs
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\obj\Debug\net6.0\ExprementProject.MvcApplicationPartsAssemblyInfo.cache
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\obj\Debug\net6.0\staticwebassets.build.json
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\obj\Debug\net6.0\staticwebassets.development.json
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\obj\Debug\net6.0\staticwebassets\msbuild.ExprementProject.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\obj\Debug\net6.0\staticwebassets\msbuild.build.ExprementProject.props
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ExprementProject.props
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ExprementProject.props
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\obj\Debug\net6.0\staticwebassets.pack.json
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\obj\Debug\net6.0\scopedcss\bundle\ExprementProject.styles.css
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\obj\Debug\net6.0\ExprementProject.csproj.CopyComplete
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\obj\Debug\net6.0\ExprementProject.dll
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\obj\Debug\net6.0\refint\ExprementProject.dll
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\obj\Debug\net6.0\ExprementProject.pdb
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\obj\Debug\net6.0\ExprementProject.genruntimeconfig.cache
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\ExprementProject\obj\Debug\net6.0\ref\ExprementProject.dll
